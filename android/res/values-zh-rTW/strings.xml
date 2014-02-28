@@ -22,7 +22,7 @@
   <string name="button_add_contact">加入聯絡人</string>
   <string name="button_book_search">圖書搜尋</string>
   <string name="button_cancel">取消</string>
-  <string name="button_custom_product_search">自定義搜尋</string>
+  <string name="button_custom_product_search">自訂搜尋</string>
   <string name="button_dial">撥號</string>
   <string name="button_email">發送電子郵件</string>
   <string name="button_get_directions">規劃路線</string>
@@ -60,7 +60,7 @@
   <string name="menu_history">記錄</string>
   <string name="menu_settings">設定</string>
   <string name="menu_share">分享</string>
-  <string name="msg_bulk_mode_scanned">大量掃描模式：條碼掃描並儲存</string>
+  <string name="msg_bulk_mode_scanned">大量掃描模式：掃描條碼並儲存</string>
   <string name="msg_camera_framework_bug">很抱歉，Android 相機出現問題，您可能需要重新啟動您的裝置。</string>
   <string name="msg_default_format">格式</string>
   <string name="msg_default_meta">元資料</string>
@@ -82,7 +82,7 @@
   <string name="msg_sbc_results">結果</string>
   <string name="msg_sbc_searching_book">搜尋圖書中\u2026</string>
   <string name="msg_sbc_snippet_unavailable">無法取得摘要</string>
-  <string name="msg_share_explanation">您可以在您的手機螢幕上顯示條碼，並使用其他手機掃描條碼，藉此分享資訊</string>
+  <string name="msg_share_explanation">您可以在您的手機螢幕上顯示條碼，並使用其他手機掃描條碼藉此分享資訊</string>
   <string name="msg_share_text">或輸入一些文字並按 Enter</string>
   <string name="msg_sure">您確定嗎？</string>
   <string name="msg_unmount_usb">無法讀取 SD 卡。</string>
@@ -108,17 +108,17 @@
   <string name="preferences_front_light_auto">自動</string>
   <string name="preferences_front_light_off">關</string>
   <string name="preferences_front_light_on">開</string>
-  <string name="preferences_front_light_summary">改善在低光源的環境下掃描的成功率，但有可能造成過度曝光的現象</string>
+  <string name="preferences_front_light_summary">改善在低光源的環境下掃描的成功率，但有可能太亮。（某些設備上無法使用）</string>
   <string name="preferences_front_light_title">使用前光源</string>
   <string name="preferences_general_title">一般設定</string>
-  <string name="preferences_invert_scan_summary">掃描黑底白字的條碼（某些設備上無法使用）</string>
+  <string name="preferences_invert_scan_summary">掃描黑底白字的條碼。（某些設備上無法使用）</string>
   <string name="preferences_invert_scan_title">黑底白字掃描</string>
   <string name="preferences_name">設定</string>
   <string name="preferences_play_beep_title">嗶一聲</string>
   <string name="preferences_remember_duplicates_summary">在記錄中重複儲存相同的條碼</string>
   <string name="preferences_remember_duplicates_title">記錄重複的條碼</string>
   <string name="preferences_result_title">結果設定</string>
-  <string name="preferences_scanning_title">當掃描條碼時，解碼\u2026</string>
+  <string name="preferences_scanning_title">掃描條碼時，解碼\u2026</string>
   <string name="preferences_search_country">搜尋國家</string>
   <string name="preferences_supplemental_summary">嘗試透過條碼搜尋更多的資訊</string>
   <string name="preferences_supplemental_title">搜尋更多資訊</string>
